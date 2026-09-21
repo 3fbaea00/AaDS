@@ -1,5 +1,3 @@
-# AlgoAndDataStructs
-
 ## Задача №111156. Сортировка выбором
 
 **Файл:** [task1.hs](task1.hs)  
